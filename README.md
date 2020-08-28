@@ -1,9 +1,8 @@
-# bts_commuterapp
+# Beep Tracking System - Commuter
 
-A new flutter module project.
+A Flutter mobile application called Beep Tracking System for commuters to track buses real-time.
 
 ## Getting Started
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.dev/).
-# Beep Tracking System - Commuter
